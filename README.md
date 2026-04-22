@@ -1,8 +1,6 @@
 <div align="center">
   <h1> 🛒 Online Store App </h1>
   <p><b>A functional e-commerce mobile application developed during the ITI Flutter Development Course.</b></p>
-
-  <a href="https://github.com/ahmed-mohamed74"><strong>View Repository »</strong></a>
 </div>
 
 <br />
